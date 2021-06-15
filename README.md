@@ -18,6 +18,8 @@ Creating relevant databases
 To perform operations such as reporting, graphic analysis
 To control database logging applications and more ...
 
+
  <img src="https://i.hizliresim.com/m2zy6mq.gif" align="center" style="width: 60%" />
+ Much more detailed than the gif below, but I couldn't show it in the gif. Examine the repository
 
 
